@@ -1,0 +1,1 @@
+Kanban nie wymusza na starcie ¿adnych zmian w ju¿ istniej¹cym procesie. Pomaga go tylko zwizualizowaæ, zacz¹æ mierzyæ podstawowe metryki i dziêki temu usprawniaæ. Kanban nie zak³ada planowania pracy, lecz obs³ugê kolejki incydentów.
